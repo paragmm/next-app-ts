@@ -16,7 +16,6 @@ const Text = () => {
         <div>
             <Button className="bg-red-600" variant="default" onClick={() => clickHandler(false)}>Button</Button>
             Hellow text
-
         </div>
     );
 };
